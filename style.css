@@ -1,1 +1,23 @@
+body, h1 {
+  background: grey;
+}
 
+h1 {
+  color: red;
+  sans-serif;
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button {
+  background-color: white;
+  border: none;
+  color: black;
+  width: 100%;
+  padding: 8px 0;
+}
+  
